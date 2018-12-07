@@ -7,6 +7,6 @@ spring:
       server:
         git:
           uri: https://github.com/crusillo2003/udemy-rsmortgage-config-repository-1
-          searchPaths: udemy-rsmortgage-customer-service
+          searchPaths: udemy-rsmortgage-customer-service,udemy-rsmortgage-customer-account-service
           username: crusillo2003
           password: five022
